@@ -1,0 +1,2 @@
+class UserVariantsController < ApplicationController
+end

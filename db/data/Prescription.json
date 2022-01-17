@@ -1,0 +1,102 @@
+[
+  {
+    "ID": 1,
+    "UserID": 1,
+    "DrugID": 186
+  },
+  {
+    "ID": 2,
+    "UserID": 1,
+    "DrugID": 218
+  },
+  {
+    "ID": 3,
+    "UserID": 1,
+    "DrugID": 277
+  },
+  {
+    "ID": 4,
+    "UserID": 1,
+    "DrugID": 54
+  },
+  {
+    "ID": 5,
+    "UserID": 1,
+    "DrugID": 23
+  },
+  {
+    "ID": 6,
+    "UserID": 1,
+    "DrugID": 115
+  },
+  {
+    "ID": 7,
+    "UserID": 1,
+    "DrugID": 57
+  },
+  {
+    "ID": 8,
+    "UserID": 1,
+    "DrugID": 182
+  },
+  {
+    "ID": 9,
+    "UserID": 1,
+    "DrugID": 241
+  },
+  {
+    "ID": 10,
+    "UserID": 1,
+    "DrugID": 202
+  },
+  {
+    "ID": 11,
+    "UserID": 1,
+    "DrugID": 146
+  },
+  {
+    "ID": 12,
+    "UserID": 1,
+    "DrugID": 43
+  },
+  {
+    "ID": 13,
+    "UserID": 1,
+    "DrugID": 259
+  },
+  {
+    "ID": 14,
+    "UserID": 1,
+    "DrugID": 239
+  },
+  {
+    "ID": 15,
+    "UserID": 1,
+    "DrugID": 226
+  },
+  {
+    "ID": 16,
+    "UserID": 1,
+    "DrugID": 290
+  },
+  {
+    "ID": 17,
+    "UserID": 1,
+    "DrugID": 318
+  },
+  {
+    "ID": 18,
+    "UserID": 1,
+    "DrugID": 141
+  },
+  {
+    "ID": 19,
+    "UserID": 1,
+    "DrugID": 221
+  },
+  {
+    "ID": 20,
+    "UserID": 1,
+    "DrugID": 131
+  }
+]
